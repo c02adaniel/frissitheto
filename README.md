@@ -1,0 +1,2 @@
+# frissitheto
+Linux frissítés ellenőrző
